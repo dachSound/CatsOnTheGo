@@ -14,7 +14,7 @@ Choose your operating system:
 
 Mac
 
-	```bash # Using Homebrew (recommended)
+			# Using Homebrew (recommended)
 			brew install go
 
 			# Or download from official site:
