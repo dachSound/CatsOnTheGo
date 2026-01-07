@@ -50,15 +50,15 @@ Verify Installation
 
 How to install and run CatsOnTheGo: 
 
-	```bash git clone https://github.com/dachSound/CatsOnTheGo
+			git clone https://github.com/dachSound/CatsOnTheGo
 			cd CatsOnTheGo
 			go run main.go
-	```
+
 
 Optional: Build an Executable
 
-		# Build for your current OS
-		go build -o catsonthego .
+		   # Build for your current OS
+		   go build -o catsonthego .
 
-		# Run the executable
-		./catsonthego
+		   # Run the executable
+		   ./catsonthego
